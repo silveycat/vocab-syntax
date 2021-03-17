@@ -9,4 +9,4 @@ This repository contains the following files:
 Note that when run on the fake data, the analysis scripts will not perfectly reproduce the reported results.
 
 ## Citation
-> Silvey, C., Demir-Lira, &Ouml;. E., Goldin-Meadow, S., & Raudenbush, S. (in press). Effects of time-varying parent input on child language outcomes differ for vocabulary and syntax. *Psychological Science*.
+> Silvey, C., Demir-Lira, &Ouml;. E., Goldin-Meadow, S., & Raudenbush, S. (2021). Effects of time-varying parent input on children's language outcomes differ for vocabulary and syntax. *Psychological Science*. https://doi.org/10.1177/0956797620970559
